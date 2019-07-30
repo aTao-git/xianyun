@@ -12,5 +12,12 @@ export default {
 }
 </script>
 
-<style>
+<style lang="sass">
+*
+  margin: 0
+  padding: 0
+ol,ul
+  list-style: none
+a
+  color:
 </style>
